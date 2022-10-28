@@ -1,0 +1,25 @@
+<svg id="svg5249" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="6.295mm" width="4.928mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 17.46125 22.305">
+ <defs id="defs5251">
+  <clipPath id="clipPath308" clipPathUnits="userSpaceOnUse">
+   <path id="path310" d="m0 1675.2h819.14v-1675.2h-819.14v1675.2z"/>
+  </clipPath>
+ </defs>
+ <g id="layer1" transform="translate(-611.27 -635.5)">
+  <g id="g304" transform="matrix(1.25 0 0 -1.25 -125.71 1857.5)">
+   <g id="g306" clip-path="url(#clipPath308)">
+    <g fill="#0071bc">
+     <path id="path312" d="m590.55 960.7h12.031v15.906h-12.031v-15.906zm13-0.968h-13.969v17.844h13.969v-17.844z"/>
+     <path id="path314" d="m600.57 962.22h-8v1h8v-1z"/>
+     <path id="path316" d="m600.57 964.22h-8v1h8v-1z"/>
+     <path id="path318" d="m600.57 966.22h-8v1h8v-1z"/>
+    </g>
+    <g id="g320" transform="translate(599.66 968.89)">
+     <path id="path322" d="m0 0h-6.187v1.635h1v-0.635h4.187v0.635h1v-1.635z" fill="#0071bc"/>
+    </g>
+    <g id="g324" transform="translate(596.57 974.02)">
+     <path id="path326" d="m0 0c-0.465 0-0.844-0.379-0.844-0.844s0.379-0.843 0.844-0.843 0.844 0.378 0.844 0.843-0.379 0.844-0.844 0.844m0-2.688c-1.016 0-1.844 0.828-1.844 1.844 0 1.017 0.828 1.844 1.844 1.844 1.018 0 1.844-0.827 1.844-1.844 0-1.016-0.826-1.844-1.844-1.844" fill="#0071bc"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
